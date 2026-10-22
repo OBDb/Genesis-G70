@@ -1,0 +1,44 @@
+command_id: 770.778.22BC08
+test_cases:
+- expected_values:
+    G70_TURN_L: 0
+    G70_TURN_R: 0
+  response: |-
+    778100B62BC08007790
+    778218400000000AAAA
+- expected_values:
+    G70_TURN_L: 0
+    G70_TURN_R: 0
+  response: |-
+    778100B62BC08007790
+    778218400000100AAAA
+- expected_values:
+    G70_TURN_L: 0
+    G70_TURN_R: 0
+  response: |-
+    778100B62BC08007790
+    778218400020000AAAA
+- expected_values:
+    G70_TURN_L: 0
+    G70_TURN_R: 0
+  response: |-
+    778100B62BC08007790
+    778218400040100AAAA
+- expected_values:
+    G70_TURN_L: 0
+    G70_TURN_R: 0
+  response: |-
+    778100B62BC08007790
+    778218400060000AAAA
+- expected_values:
+    G70_TURN_L: 0
+    G70_TURN_R: 0
+  response: |-
+    778100B62BC08007790
+    778218400060100AAAA
+- expected_values:
+    G70_TURN_L: 0
+    G70_TURN_R: 0
+  response: |-
+    778100B62BC08007790
+    7782184000C0100AAAA

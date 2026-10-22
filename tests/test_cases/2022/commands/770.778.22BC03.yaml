@@ -1,0 +1,142 @@
+command_id: 770.778.22BC03
+test_cases:
+- expected_values:
+    G70_BELT_DRIV: 0
+    G70_BELT_PASS: 0
+    G70_DEFOG_SW: 0
+    G70_DOOR_FL: 0
+    G70_DOOR_FR: 0
+    G70_DOOR_RL: 0
+    G70_DOOR_RR: 0
+    G70_HANDBRAKE: 0
+    G70_HOOD: 0
+    G70_TRUNK: 0
+  response: |-
+    778100B62BC03FFFE20
+    778216200600000AAAA
+- expected_values:
+    G70_BELT_DRIV: 1
+    G70_BELT_PASS: 0
+    G70_DEFOG_SW: 0
+    G70_DOOR_FL: 0
+    G70_DOOR_FR: 0
+    G70_DOOR_RL: 0
+    G70_DOOR_RR: 0
+    G70_HANDBRAKE: 0
+    G70_HOOD: 0
+    G70_TRUNK: 0
+  response: |-
+    778100B62BC03FFFE20
+    778216200620000AAAA
+- expected_values:
+    G70_BELT_DRIV: 0
+    G70_BELT_PASS: 0
+    G70_DEFOG_SW: 0
+    G70_DOOR_FL: 0
+    G70_DOOR_FR: 0
+    G70_DOOR_RL: 0
+    G70_DOOR_RR: 0
+    G70_HANDBRAKE: 1
+    G70_HOOD: 0
+    G70_TRUNK: 0
+  response: |-
+    778100B62BC03FFFE20
+    77821620A000000AAAA
+- expected_values:
+    G70_BELT_DRIV: 0
+    G70_BELT_PASS: 0
+    G70_DEFOG_SW: 0
+    G70_DOOR_FL: 0
+    G70_DOOR_FR: 0
+    G70_DOOR_RL: 0
+    G70_DOOR_RR: 0
+    G70_HANDBRAKE: 1
+    G70_HOOD: 0
+    G70_TRUNK: 0
+  response: |-
+    778100B62BC03FFFE20
+    77821620A600000AAAA
+- expected_values:
+    G70_BELT_DRIV: 1
+    G70_BELT_PASS: 0
+    G70_DEFOG_SW: 0
+    G70_DOOR_FL: 0
+    G70_DOOR_FR: 0
+    G70_DOOR_RL: 0
+    G70_DOOR_RR: 0
+    G70_HANDBRAKE: 1
+    G70_HOOD: 0
+    G70_TRUNK: 0
+  response: |-
+    778100B62BC03FFFE20
+    77821620A620000AAAA
+- expected_values:
+    G70_BELT_DRIV: 0
+    G70_BELT_PASS: 0
+    G70_DEFOG_SW: 0
+    G70_DOOR_FL: 0
+    G70_DOOR_FR: 0
+    G70_DOOR_RL: 1
+    G70_DOOR_RR: 0
+    G70_HANDBRAKE: 1
+    G70_HOOD: 0
+    G70_TRUNK: 0
+  response: |-
+    778100B62BC03FFFE20
+    77821620B000000AAAA
+- expected_values:
+    G70_BELT_DRIV: 0
+    G70_BELT_PASS: 0
+    G70_DEFOG_SW: 0
+    G70_DOOR_FL: 0
+    G70_DOOR_FR: 1
+    G70_DOOR_RL: 0
+    G70_DOOR_RR: 0
+    G70_HANDBRAKE: 1
+    G70_HOOD: 0
+    G70_TRUNK: 0
+  response: |-
+    778100B62BC03FFFE20
+    77821621A000000AAAA
+- expected_values:
+    G70_BELT_DRIV: 0
+    G70_BELT_PASS: 0
+    G70_DEFOG_SW: 0
+    G70_DOOR_FL: 1
+    G70_DOOR_FR: 0
+    G70_DOOR_RL: 0
+    G70_DOOR_RR: 0
+    G70_HANDBRAKE: 1
+    G70_HOOD: 0
+    G70_TRUNK: 0
+  response: |-
+    778100B62BC03FFFE20
+    77821622A000000AAAA
+- expected_values:
+    G70_BELT_DRIV: 0
+    G70_BELT_PASS: 0
+    G70_DEFOG_SW: 0
+    G70_DOOR_FL: 1
+    G70_DOOR_FR: 0
+    G70_DOOR_RL: 0
+    G70_DOOR_RR: 0
+    G70_HANDBRAKE: 1
+    G70_HOOD: 0
+    G70_TRUNK: 0
+  response: |-
+    778100B62BC03FFFE20
+    77821622A600000AAAA
+- expected_values:
+    G70_BELT_DRIV: 0
+    G70_BELT_PASS: 0
+    G70_DEFOG_SW: 0
+    G70_DOOR_FL: 0
+    G70_DOOR_FR: 0
+    G70_DOOR_RL: 0
+    G70_DOOR_RR: 0
+    G70_HANDBRAKE: 1
+    G70_HOOD: 0
+    G70_TRUNK: 1
+  response: |-
+    778100B62BC03FFFE20
+    77821628A000000AAAA
