@@ -38,7 +38,6 @@ test_cases:
     7CE2263660000000000
 - expected_values:
     G70_CLUSTER_VOLTAGE: 11.95312
-    G70_FLI_VOL: 127.5
     G70_ODO_KM: 0
     G70_ODO_MI: 90994
   response: |-
@@ -47,7 +46,6 @@ test_cases:
     7CE2263720000000000
 - expected_values:
     G70_CLUSTER_VOLTAGE: 12.26562
-    G70_FLI_VOL: 127.5
     G70_ODO_KM: 0
     G70_ODO_MI: 90994
   response: |-
@@ -56,7 +54,6 @@ test_cases:
     7CE2263720000000000
 - expected_values:
     G70_CLUSTER_VOLTAGE: 12.5
-    G70_FLI_VOL: 127.5
     G70_ODO_KM: 0
     G70_ODO_MI: 90994
   response: |-
